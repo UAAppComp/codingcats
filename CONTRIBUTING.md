@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Contributing to UofT Coders
+title: Contributing to Coding Cats
 ---
+(Soon to be Coding Cats! Original page content below.)
+
+-----
+
 Welcome to the Contributing guideline for UofT Coders. Thanks for taking the time to contribute! 
 
 The following is a set of guidelines for contributing to the UofT Coders community, whether it be by teaching a lesson, fixing the website, helping to plan and organize our various events, or taking on a leadership role.
