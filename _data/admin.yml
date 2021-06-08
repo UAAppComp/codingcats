@@ -1,8 +1,8 @@
-- name: Ryan Straight
-  position: Co-Founder
-  degree: PhD, Instructional Technology
-  github: ryanstraight
+- name: Example Administrator
+  position: Important Person
+  degree: MS, Cyber Operations
+  github: github
   interests:
-    - R
-    - RMarkdown
-    - Adobe Creative Cloud
+    - Python
+    - Violent Python
+    - Ultraviolent Python
