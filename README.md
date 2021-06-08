@@ -1,3 +1,11 @@
+# Maybe let's make a coding club!
+
+:)
+
+(Original **readme.md** below.)
+
+-----
+
 Mozilla Study Groups
 ============
 
