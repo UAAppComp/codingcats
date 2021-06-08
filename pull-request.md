@@ -23,28 +23,28 @@ Please follow the instructions below before submitting your PR:
 
 ## Detailed step-by-step
 
-1. Fork the `studyGroup` into your GitHub account. See
+1. Fork the `codingcats` repo into your GitHub account. See
 [this GitHub help for info on forking](https://help.github.com/articles/fork-a-repo/).
 2. After it is forked, `git clone` from your terminal or Git Bash of your new
-forked version of `studyGroup` onto your computer *from your account*. If you
+forked version of `codingcats` onto your computer *from your account*. If you
 want it on your Desktop do:
   ```
   cd Desktop
-  git clone https://github.com/YOUR-USERNAME/studyGroup.git
+  git clone https://github.com/YOUR-USERNAME/codingcats.git
   ```
 
   ...replacing YOUR-USERNAME with your own user name on GitHub (eg: mine would
-  look like `git clone https://github.com/lwjohnst86/studyGroup.git`).
-3. Type `ls` to confirm that the `studyGroup` folder was created. Then
-`cd studyGroup` and `git status` or `git log` to confirm that you are now in the
+  look like `git clone https://github.com/coolusername/codingcats.git`).
+3. Type `ls` to confirm that the `codingcats` folder was created. Then
+`cd codingcats` and `git status` or `git log` to confirm that you are now in the
 new repo.
-4. Add the original Study Group repo using this command:
+4. Add the original Coding Cats repo using this command:
   ```
-  git remote add upstream https://github.com/UofTCoders/studyGroup.git
+  git remote add upstream https://github.com/UAAppComp/codingcats.git
   git fetch upstream
   ```
 
-5. Create a new folder in the `lessons` folder of `studyGroup` on your computer,
+5. Create a new folder in the `lessons` folder of `codingcats` on your computer,
 naming it appropriately (without spaces) to the lesson you are planning on
 teaching. Files and folders should be named as such:
     - Create the lesson template under whichever programming language you are
@@ -71,8 +71,8 @@ others.
   ```
   git push origin gh-pages
   ```
-9. Submit a Pull Request *from* your GitHub account *into* the UofTCoders.
-Make sure the **base fork** is set to `UofTCoders/studyGroup` (and not `mozillascience/studyGroup`).
+9. Submit a Pull Request *from* your GitHub account *into* the UAAppComp.
+Make sure the **base fork** is set to `UAAppComp/codingcats` (and not `mozillascience/studyGroup` or `UofTCoders/studyGroup`).
 Check [the GitHub help on Pull Requests](https://help.github.com/articles/using-pull-requests/).
 
 **Note**: For those wanting to contribute regularly or who edit their
