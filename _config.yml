@@ -18,7 +18,8 @@ description: "We are a group of students and faculty dedicated to learning about
 # None of these things need to be changed - but feel free!
 
 headlineSmall: "Welcome to Coding Cats!"
-headlineMain: "Let's Code Together"
+#headlineMain: "Let's Code Together"
+headlineMain: "UNDER CONSTRUCTION!"
 #avatar: "img/logos/logo_icon_dark.png"
 
 # Setup Google Calendar
